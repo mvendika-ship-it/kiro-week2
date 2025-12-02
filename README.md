@@ -1,2 +1,12 @@
-# kiro-week2
-Kiro Week 2 - Building a Simple Content Summarizer with Amazon Bedrock
+
+---
+
+## 🚀 Future Enhancements
+- Add UI for user input text
+- Add voice-to-summary and PDF summarization
+- Deploy as serverless application
+
+---
+
+## 👤 Author
+Masthan - AI for Bharat Hackathon Participant
